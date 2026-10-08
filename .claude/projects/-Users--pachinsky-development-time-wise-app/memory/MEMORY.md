@@ -1,0 +1,1 @@
+- [Magic project overview](project_magic_overview.md) — Flutter/Dart macOS profile launcher, Phase 1 complete, phases 2-5 pending
